@@ -7,6 +7,7 @@ image:
     alt: "Thumbnail of Astro rays."
 pubDate: 2024-05-06
 tags: ["astro", "learning in public", "setbacks", "community"]
+layout: ../../layouts/MarkdownPostLayout.astro
 ---
 It wasn't always smooth sailing, but I'm enjoying building with Astro. And, the
 [Discord community](https://astro.build/chat) is really friendly and helpful!
